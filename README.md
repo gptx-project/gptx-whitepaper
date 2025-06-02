@@ -45,7 +45,7 @@ We're actively looking for:
 - **Carbon sustainability experts**
 
 Want to help build the AI sustainability layer?  
-**👉 [Contact Us or Submit an Issue](https://github.com/gptx-project/issues)**
+**👉 [Contact Us or Submit an Issue](https://github.com/gptx-project/gptx-community/issues)**
 
 ## 📝 License
 
