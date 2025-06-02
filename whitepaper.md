@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-GPTX is a decentralized AI token liquidity platform that enables users to trade unused tokens from subscription-based AI services (such as OpenAI, Anthropic, or Mistral) into a universal token or altcoin. Beyond creating liquidity for otherwise wasted tokens, GPTX integrates a carbon offset incentive model, allowing AI platforms to convert unused token allocations into verifiable carbon offsets, demonstrating sustainability and improving ESG metrics.
+GPTX will be a decentralized AI token liquidity platform that enables users to trade unused tokens from subscription-based AI services (such as OpenAI, Anthropic, or Mistral) into a universal token or altcoin. Beyond creating liquidity for otherwise wasted tokens, GPTX integrates a carbon offset incentive model, allowing AI platforms to convert unused token allocations into verifiable carbon offsets, demonstrating sustainability and improving ESG metrics.
 
 ## 2. Problem Statement
 
