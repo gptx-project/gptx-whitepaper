@@ -155,5 +155,3 @@ We’re building GPTX as an open, ethical, and sustainable infrastructure for th
 
 **Website:** \[Coming soon]
 **GitHub:** \[[https://github.com/gptx-project](https://github.com/gptx-project)]
-**Twitter/X:** \[@GPTX\_Labs]
-**Email:** [founders@gptx.io](mailto:founders@gptx.io)
