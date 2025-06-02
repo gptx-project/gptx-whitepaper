@@ -1,8 +1,8 @@
 # 🪙 GPTX + Bitcoin: Unlocking AI Utility with Hard Money
 
-## 🧠 Why We Accept Bitcoin
+## 🧠 Why We Would Accept Bitcoin
 
-At GPTX, we believe in **financial sovereignty**, **open ecosystems**, and **sustainable compute**. By allowing users to purchase GPTX credits using **Bitcoin**, we align our mission with the foundational principles of decentralization and user ownership.
+We believe in **financial sovereignty**, **open ecosystems**, and **sustainable compute**. By allowing users to purchase GPTX credits using **Bitcoin**, we align our mission with the foundational principles of decentralization and user ownership.
 
 Bitcoin isn't just a payment method—it's a **signal of independence**. GPTX empowers users to reclaim value from unused AI tokens, and we see BTC as the natural on-ramp to that liberation.
 
@@ -18,7 +18,7 @@ This makes GPTX the **first AI token platform to turn Bitcoin into a climate-pos
 
 ---
 
-## 🚀 User Benefits
+## 🚀 Proposed User Benefits
 
 - 🔓 **Global Access**: No banks, no borders—just utility and ownership.
 - 🏷️ **BTC Bonuses**: Pay in BTC and receive a **10% GPTX credit bonus**.
