@@ -72,7 +72,7 @@ After the **Change Date**, the project will convert to the Apache License 2.0:
 ## License Enforcement and Transparency
 
 - A `LICENSE.md` file with full BSL 1.1 terms is included in each repository
-- Commercial inquiries may be directed to: **founders@gptx.io**
+- Commercial inquiries may be directed to: **founders@gptexchange.io**
 - A `Green Ledger` and `Community DAO` will help oversee transitions and license scope decisions in future versions
 
 ---
@@ -81,4 +81,4 @@ After the **Change Date**, the project will convert to the Apache License 2.0:
 
 GPTX is committed to building a sustainable, transparent, and community-aligned AI infrastructure. By starting with BSL 1.1 and planning a clear transition to Apache 2.0, we ensure early protections without sacrificing long-term openness.
 
-**Contact:** founders@gptx.io
+**Contact:** founders@gptexchage.io
