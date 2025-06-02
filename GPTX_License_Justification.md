@@ -22,7 +22,7 @@ BSL 1.1 offers a hybrid model that allows:
 - 🚫 **Restrictions on commercial use** until a future date (we chose January 1, 2028)
 - 🔓 **Automatic transition to Apache 2.0**, a fully permissive open-source license, on the Change Date
 
-This ensures that the project can be used for learning, research, and development while preventing for-profit companies from cloning or monetizing GPTX without contributing back to the ecosystem.
+This ensures that the project can be used for learning, research, and development while preventing for-profit companies from cloning or monetizing GPTX technically or conceptually without contributing back to the ecosystem.
 
 ---
 
